@@ -21,7 +21,9 @@
     float : right;
 }
 .section{
-    margin-bottom : 7px;
+    
+    margin-bottom : 70px;
+    text-align : justify;
 }
 .sec-gauche{
     float : left;
@@ -35,10 +37,7 @@ strong {
     font-size : 26px;
 }
 
-.section{
-    margin-bottom : 70px;
-    text-align : justify;
-}
+
 h2{
     font-size 28px;
     color : #3388BB;
