@@ -20,7 +20,31 @@
 }
 .sec-gauche{
     float : left;
+    font -weight : bold;
+    font-size : 20px;
 }
 .sec-droite{
     margin-left : 150px;
+}
+strong {
+    font-size : 26px;
+}
+
+.section{
+    margin-bottom : 70px;
+    text-align : justify;
+}
+h2{
+    font-size 28px;
+    color : #3388BB;
+    border-bottom :3px solid #3388DD;
+}
+.duree{
+    font-weight : normal;
+    fotn-style : italic;
+    font-size : 16px
+}
+.titre{
+    font-weight : bold;
+    font-size : 20px;
 }
