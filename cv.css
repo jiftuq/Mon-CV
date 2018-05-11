@@ -4,3 +4,14 @@
     font-size : 16px;
     font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
 }
+.infophoto{
+    height : 250 px;
+}
+
+.info{
+    float :left;
+}
+
+.photo{
+    float : right;
+}
