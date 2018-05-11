@@ -15,3 +15,12 @@
 .photo{
     float : right;
 }
+.section{
+    margin-bottom : 7px;
+}
+.sec-gauche{
+    float : left;
+}
+.sec-droite{
+    margin-left : 150px;
+}
